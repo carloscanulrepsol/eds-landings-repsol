@@ -1,3 +1,4 @@
+/* stylelint-disable max-line-length */
 * {
   margin: 0;
   padding: 0;
@@ -65,7 +66,7 @@ h6 {
 }
 
 /******************
-*** TEXT STYLES *** 
+*** TEXT STYLES ***
 *******************/
 /* ESTAS SON GENERADAS A MANO, NO ELIMINAR */
 :root {
